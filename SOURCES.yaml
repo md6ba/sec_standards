@@ -1,0 +1,160 @@
+# Sources Registry
+# Primary organizations and their access status
+
+NIST:
+  name: National Institute of Standards and Technology
+  domain: nist.gov
+  verified: true
+  url: https://www.nist.gov
+  access: public_domain
+  series:
+    - Cybersecurity Framework
+    - SP 800 series
+    - FIPS
+    - PQC
+    - SSDF
+    - Identity guidance
+    - Key management
+    - Zero trust
+    - Supply chain
+  collected: 34
+
+IETF:
+  name: Internet Engineering Task Force
+  domain: ietf.org
+  verified: true
+  url: https://www.ietf.org
+  access: public
+  series:
+    - RFCs (TLS, SSH, IPsec, DNSSEC, HTTP security, PKI, crypto, OAuth, JWT)
+  collected: 78
+
+OWASP:
+  name: Open Web Application Security Project
+  domain: owasp.org
+  verified: true
+  url: https://owasp.org
+  access: cc_by_sa
+  series:
+    - Top 10
+    - ASVS
+    - SAMM
+    - API Security Top 10
+    - Secure Coding Practices
+  collected: 6
+
+CISA:
+  name: Cybersecurity and Infrastructure Security Agency
+  domain: cisa.gov
+  verified: true
+  url: https://www.cisa.gov
+  access: public_domain
+  series:
+    - Secure by Design
+    - Software Acquisition Guide
+    - ICT SCRM
+  collected: 3
+
+NVD:
+  name: National Vulnerability Database
+  domain: nvd.nist.gov
+  verified: true
+  url: https://nvd.nist.gov
+  access: public
+  series:
+    - CVE
+    - CVSS
+    - CPE
+  collected: 9
+
+MITRE_CWE:
+  name: MITRE Corporation (CWE)
+  domain: cwe.mitre.org
+  verified: true
+  url: https://cwe.mitre.org
+  access: public
+  series:
+    - CWE taxonomy
+  collected: 2
+
+FIRST:
+  name: Forum of Incident Response and Security Teams
+  domain: first.org
+  verified: true
+  url: https://www.first.org
+  access: public
+  series:
+    - CVSS v3.1
+    - CVSS v4.0
+  collected: 2
+
+ETSI:
+  name: European Telecommunications Standards Institute
+  domain: etsi.org
+  verified: true
+  url: https://www.etsi.org
+  access: public
+  series:
+    - Quantum-Safe Signatures TR
+    - QSC Algorithm Profiles TR
+  collected: 2
+
+CFRG:
+  name: Crypto Forum Research Group (IRTF)
+  domain: datatracker.ietf.org
+  verified: true
+  url: https://datatracker.ietf.org/rg/cfrg/
+  access: public
+  series:
+    - Hybrid KEMs draft
+  collected: 1
+
+SLSA:
+  name: Supply-chain Levels for Software Artifacts
+  domain: slsa.dev
+  verified: true
+  url: https://slsa.dev
+  access: apache_2
+  series:
+    - SLSA specification
+  collected: 1
+
+# Metadata-only sources (not freely downloadable)
+
+ISO:
+  name: International Organization for Standardization
+  domain: iso.org
+  verified: true
+  url: https://www.iso.org
+  access: copyrighted
+  series:
+    - ISO/IEC 27000 family
+    - ISO/IEC 15408
+  collected: 0
+  metadata_only: true
+
+CIS:
+  name: Center for Internet Security
+  domain: cisecurity.org
+  verified: true
+  url: https://www.cisecurity.org
+  access: email_registration
+  series:
+    - CIS Controls
+    - CIS Benchmarks
+  collected: 0
+  metadata_only: true
+
+# Not yet investigated
+
+OpenSSF:
+  name: Open Source Security Federation
+  domain: openssf.org
+  verified: true
+  url: https://openssf.org
+  access: open_source
+  series:
+    - Best Practices
+    - Scorecard
+  collected: 0
+  metadata_only: false

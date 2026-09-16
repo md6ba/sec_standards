@@ -1,0 +1,1793 @@
+catalog:
+  cryptography_classical_ietf_rfc2631_txt:
+    title: Diffie-Hellman Key Agreement Method
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: June 1999
+    url: https://www.rfc-editor.org/rfc/rfc2631.txt
+    local_path: cryptography/classical/ietf/rfc2631.txt
+    size_bytes: 25932
+    sha256: 256243e8c509fa5542ea84e46af202c7fd603aa6f46a97fbd12a7e8cbc88d9df
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc3279_txt:
+    title: Algorithms and Identifiers for the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation
+      List (CRL) Profile
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: April 2002
+    url: https://www.rfc-editor.org/rfc/rfc3279.txt
+    local_path: cryptography/classical/ietf/rfc3279.txt
+    size_bytes: 53833
+    sha256: 6d3f19f18e17fa1c68da5aaf4021327748fabca840d7300443b77357a1fc1614
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc3394_txt:
+    title: Advanced Encryption Standard (AES) Key Wrap Algorithm
+    organization: IETF
+    type: rfc
+    status: informational
+    date: September 2002
+    url: https://www.rfc-editor.org/rfc/rfc3394.txt
+    local_path: cryptography/classical/ietf/rfc3394.txt
+    size_bytes: 73072
+    sha256: faa400c69c22e5f4a911222dc19c17091931a4b8c0658adc7011163e63b253ff
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc3526_txt:
+    title: More Modular Exponential (MODP) Diffie-Hellman groups for Internet Key Exchange (IKE)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2003
+    url: https://www.rfc-editor.org/rfc/rfc3526.txt
+    local_path: cryptography/classical/ietf/rfc3526.txt
+    size_bytes: 19166
+    sha256: 6c95b231eb1c2d9ffa480efbe3ae53477231271f3438570a3af370b2aa4a968b
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc3686_txt:
+    title: Using Advanced Encryption Standard (AES) Counter Mode With IPsec Encapsulating Security Payload (ESP)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2004
+    url: https://www.rfc-editor.org/rfc/rfc3686.txt
+    local_path: cryptography/classical/ietf/rfc3686.txt
+    size_bytes: 43777
+    sha256: c8759b088f1db8bf4c1077336c9de0521c34b3e895b9742000b6044e55f7a7c1
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc3766_txt:
+    title: Determining Strengths For Public Keys Used For Exchanging Symmetric Keys
+    organization: IETF
+    type: rfc
+    status: best_current_practice
+    date: April 2004
+    url: https://www.rfc-editor.org/rfc/rfc3766.txt
+    local_path: cryptography/classical/ietf/rfc3766.txt
+    size_bytes: 55939
+    sha256: 433aab6e88b37b4280a1ebb80deb1467dfcc11cc0b5944c0b15476728310d547
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc4309_txt:
+    title: Using Advanced Encryption Standard (AES) CCM Mode with IPsec Encapsulating Security Payload (ESP)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: December 2005
+    url: https://www.rfc-editor.org/rfc/rfc4309.txt
+    local_path: cryptography/classical/ietf/rfc4309.txt
+    size_bytes: 28998
+    sha256: a78a2ff2eca0eb2aaebd351feb984634dbd9c4fd0e0d95e517c7ddb74720fc91
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc4492_txt:
+    title: Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer Security (TLS)
+    organization: IETF
+    type: rfc
+    status: informational
+    date: May 2006
+    url: https://www.rfc-editor.org/rfc/rfc4492.txt
+    local_path: cryptography/classical/ietf/rfc4492.txt
+    size_bytes: 72231
+    sha256: 360aa48e5f86f3c77458b15dc5683bc005909480eb9c1de2d116e341112b8461
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc4493_txt:
+    title: The AES-CMAC Algorithm
+    organization: IETF
+    type: rfc
+    status: informational
+    date: June 2006
+    url: https://www.rfc-editor.org/rfc/rfc4493.txt
+    local_path: cryptography/classical/ietf/rfc4493.txt
+    size_bytes: 38751
+    sha256: 252850ac038a44e931fdce6cb02b444a18ed1da0c9e212bfdd1da0ed3366fc1c
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc4868_txt:
+    title: Using HMAC-SHA-256, HMAC-SHA-384, and HMAC-SHA-512 with IPsec
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2007
+    url: https://www.rfc-editor.org/rfc/rfc4868.txt
+    local_path: cryptography/classical/ietf/rfc4868.txt
+    size_bytes: 41432
+    sha256: 40feb304d348e909ad224a79507ebd56012b257f03c88fc472c753a000dfadbe
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5084_txt:
+    title: Using AES-CCM and AES-GCM Authenticated Encryption in the Cryptographic Message Syntax (CMS)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: November 2007
+    url: https://www.rfc-editor.org/rfc/rfc5084.txt
+    local_path: cryptography/classical/ietf/rfc5084.txt
+    size_bytes: 21821
+    sha256: 463bcd40eb2c24db27a5e2356f94c0b1187bbc9897ec1a19429482a5c71108b8
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5114_txt:
+    title: Additional Diffie-Hellman Groups for Use with IETF Standards
+    organization: IETF
+    type: rfc
+    status: informational
+    date: January 2008
+    url: https://www.rfc-editor.org/rfc/rfc5114.txt
+    local_path: cryptography/classical/ietf/rfc5114.txt
+    size_bytes: 49565
+    sha256: 7fde6217be0cf9c036e755fda502ef8345dbd7c274e8fa87ca87c69b8e4ce25b
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5116_txt:
+    title: An Interface and Algorithms for Authenticated Encryption
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2008
+    url: https://www.rfc-editor.org/rfc/rfc5116.txt
+    local_path: cryptography/classical/ietf/rfc5116.txt
+    size_bytes: 50539
+    sha256: 8762fee7c85e682fce609c75e0f5040ee7efa8fca96969ffd85df37585e0eda1
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5480_txt:
+    title: Elliptic Curve Cryptography Subject Public Key Information
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: March 2009
+    url: https://www.rfc-editor.org/rfc/rfc5480.txt
+    local_path: cryptography/classical/ietf/rfc5480.txt
+    size_bytes: 36209
+    sha256: 593bf29fd0da2ff8b903c3ebf1c9d189a770039159e2ba46a0c3b91355037f26
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5647_txt:
+    title: AES Galois Counter Mode for the Secure Shell Transport Layer Protocol
+    organization: IETF
+    type: rfc
+    status: informational
+    date: August 2009
+    url: https://www.rfc-editor.org/rfc/rfc5647.txt
+    local_path: cryptography/classical/ietf/rfc5647.txt
+    size_bytes: 20990
+    sha256: a0ee7571f0fa4a2bda1819a2057cf9f83277b90b0fe6cab91be216dfb177aabd
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5649_txt:
+    title: Advanced Encryption Standard (AES) Key Wrap with Padding Algorithm
+    organization: IETF
+    type: rfc
+    status: informational
+    date: August 2009
+    url: https://www.rfc-editor.org/rfc/rfc5649.txt
+    local_path: cryptography/classical/ietf/rfc5649.txt
+    size_bytes: 22507
+    sha256: 5555b0a3a22543985d56c2136c8ad3c5c3bf30835638006d56096b84ffb63a91
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5903_txt:
+    title: Elliptic Curve Groups modulo a Prime (ECP Groups) for IKE and IKEv2
+    organization: IETF
+    type: rfc
+    status: informational
+    date: June 2010
+    url: https://www.rfc-editor.org/rfc/rfc5903.txt
+    local_path: cryptography/classical/ietf/rfc5903.txt
+    size_bytes: 29175
+    sha256: 939fab548a6e6bb49a5b3c4dd24a3c5df54a46645447b2d6f4df4fd88ff2d69f
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc5915_txt:
+    title: Elliptic Curve Private Key Structure
+    organization: IETF
+    type: rfc
+    status: informational
+    date: June 2010
+    url: https://www.rfc-editor.org/rfc/rfc5915.txt
+    local_path: cryptography/classical/ietf/rfc5915.txt
+    size_bytes: 13646
+    sha256: 5c7b3b2eb449618a581a0ac89209d5d6acc7c375689b2e91304b5dcd866151dc
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc6979_txt:
+    title: Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA)
+    organization: IETF
+    type: rfc
+    status: informational
+    date: August 2013
+    url: https://www.rfc-editor.org/rfc/rfc6979.txt
+    local_path: cryptography/classical/ietf/rfc6979.txt
+    size_bytes: 140386
+    sha256: 456e8f17558fdbd206f968b96fc6f1b4a71ea331ab30ad17f711ab3adaa7d701
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc7914_txt:
+    title: The scrypt Password-Based Key Derivation Function
+    organization: IETF
+    type: rfc
+    status: informational
+    date: August 2016
+    url: https://www.rfc-editor.org/rfc/rfc7914.txt
+    local_path: cryptography/classical/ietf/rfc7914.txt
+    size_bytes: 29222
+    sha256: df55932f8b6a5d271f36a634d91a25903724e189ba6c120bf7257cd47f10b197
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_ietf_rfc9106_txt:
+    title: Argon2 Memory-Hard Function for Password Hashing and Proof-of-Work Applications
+    organization: IETF
+    type: rfc
+    status: informational
+    date: September 2021
+    url: https://www.rfc-editor.org/rfc/rfc9106.txt
+    local_path: cryptography/classical/ietf/rfc9106.txt
+    size_bytes: 37228
+    sha256: 855c06f060379e34285e83a217e9069b5c72e161a1e54df9af5cd88dbb231f31
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_fips_180_4_pdf:
+    title: Secure Hash Standard (SHS)
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2015
+    url: https://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf
+    local_path: cryptography/classical/nist/fips-180-4.pdf
+    size_bytes: 833315
+    sha256: 0455b406d89648d20cbde375561e19c245b9815e894164c2670772e3d54deb82
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_fips_197_pdf:
+    title: Advanced Encryption Standard (AES)
+    organization: NIST
+    type: standard
+    status: standardized
+    date: November 2001
+    url: https://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
+    local_path: cryptography/classical/nist/fips-197.pdf
+    size_bytes: 1184869
+    sha256: 89c6da9e6cb81ffb7c115752b789ff3dc205acb2b13d6a36ff55acc79e87f61e
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_fips_198_1_pdf:
+    title: The Keyed-Hash Message Authentication Code (HMAC)
+    organization: NIST
+    type: standard
+    status: standardized
+    date: July 2008
+    url: https://csrc.nist.gov/publications/fips/fips198-1/fips198-1.pdf
+    local_path: cryptography/classical/nist/fips-198-1.pdf
+    size_bytes: 119554
+    sha256: 9dbd70a9355b5f5f41c0eaabdd394f90b607f4c1784a4f35d8ca1f456f6a7557
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_fips_202_pdf:
+    title: 'SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions'
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2015
+    url: https://csrc.nist.gov/publications/fips/fips202/fips202.pdf
+    local_path: cryptography/classical/nist/fips-202.pdf
+    size_bytes: 1459683
+    sha256: 1592607831ff0908cc590632ce371c6c95e94025bb1a0c8ae90a4d0ec1ed025e
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_108_pdf:
+    title: Recommendation for Key Derivation Using Pseudorandom Functions
+    organization: NIST
+    type: standard
+    status: standardized
+    date: October 2009
+    url: https://csrc.nist.gov/publications/sp800-108/sp800-108.pdf
+    local_path: cryptography/classical/nist/sp800-108.pdf
+    size_bytes: 402864
+    sha256: e3df72c6026cf585e81b21e8843273daad789f5c30d0d6fe829b66131a8fc232
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_131a_pdf:
+    title: Transitioning the Use of Cryptographic Algorithms and Key Lengths
+    organization: NIST
+    type: standard
+    status: standardized
+    date: March 2024
+    url: https://csrc.nist.gov/publications/sp800-131a/sp800-131a.pdf
+    local_path: cryptography/classical/nist/sp800-131a.pdf
+    size_bytes: 150661
+    sha256: 8ca9bee01e7604afa4df3c2e71903a900f5bcba0353bad8b16ed75d71f7baa02
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_186_pdf:
+    title: 'Recommendations for Discrete Logarithm-Based Cryptography: Elliptic Curve Domain Parameters'
+    organization: NIST
+    type: standard
+    status: standardized
+    date: March 2023
+    url: https://csrc.nist.gov/publications/sp800-186/sp800-186.pdf
+    local_path: cryptography/classical/nist/sp800-186.pdf
+    size_bytes: 2983258
+    sha256: 53c7cf3340528aaa0a7bbeaef947f2099568192367d4341a7d4abceb55f78432
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_38a_pdf:
+    title: Recommendation for Block Cipher Modes of Operation
+    organization: NIST
+    type: standard
+    status: standardized
+    date: December 2001
+    url: https://csrc.nist.gov/publications/sp800-38a/sp800-38a.pdf
+    local_path: cryptography/classical/nist/sp800-38a.pdf
+    size_bytes: 378266
+    sha256: 66821162de1e7130c5fb5eedb22140d8d6d013ec51af4550bb095c2a9481a00e
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_38b_pdf:
+    title: 'Recommendation for Block Cipher Modes of Operation: CCM Mode'
+    organization: NIST
+    type: standard
+    status: standardized
+    date: May 2019
+    url: https://csrc.nist.gov/publications/sp800-38b/sp800-38b.pdf
+    local_path: cryptography/classical/nist/sp800-38b.pdf
+    size_bytes: 183274
+    sha256: a042c4d6562f0cd41cd0e83cf65360f67457d8d3c04f05b559dfb8737568d757
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_38f_pdf:
+    title: 'Recommendation for Block Cipher Modes of Operation: Methods for Key Wrapping'
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2019
+    url: https://csrc.nist.gov/publications/sp800-38f/sp800-38f.pdf
+    local_path: cryptography/classical/nist/sp800-38f.pdf
+    size_bytes: 289262
+    sha256: b8b1052755448e5ff3913ea09dc9b5ae47a97886752525a0cccfa024fb072fa8
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_57_p1_pdf:
+    title: 'Recommendation for Key Management: Part 1: General'
+    organization: NIST
+    type: standard
+    status: standardized
+    date: May 2020
+    url: https://csrc.nist.gov/publications/sp800-57/sp800-57-part-1-rev5-final/sp800-57-part-1-rev5-final.pdf
+    local_path: cryptography/classical/nist/sp800-57-p1.pdf
+    size_bytes: 1688080
+    sha256: cc32391022c1382ac7c91490f6bcc8838e0f889925270da23ef4e800e2ecb7ad
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp800_90b_pdf:
+    title: Recommendation for the Entropy Sources Used for Random Bit Generation
+    organization: NIST
+    type: standard
+    status: standardized
+    date: January 2018
+    url: https://csrc.nist.gov/publications/sp800-90b/sp800-90b.pdf
+    local_path: cryptography/classical/nist/sp800-90b.pdf
+    size_bytes: 1043696
+    sha256: 9b0dd77131ade3617a91cd8457fa09e0dc354c273bb2220a6afeaca16e5defe7
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp_800_38D_pdf:
+    title: sp 800 38D
+    organization: NIST
+    type: standard
+    status: standardized
+    date: November 2007
+    url: https://csrc.nist.gov/
+    local_path: cryptography/classical/nist/sp-800-38D.pdf
+    size_bytes: 270301
+    sha256: 12639b3a845b6fa44e75967f8129a71f8dd2efd15b1774f367e264ec40827da2
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_classical_nist_sp_800_90a_pdf:
+    title: Recommendation for Random Number Generation Using Deterministic Random Bit Generators
+    organization: NIST
+    type: standard
+    status: standardized
+    date: June 2015
+    url: https://csrc.nist.gov/publications/sp800-90a/sp800-90a.pdf
+    local_path: cryptography/classical/nist/sp-800-90a.pdf
+    size_bytes: 867569
+    sha256: 851884912d7870e1ac09374f60702a6962c25c4c2c9ece42d9c8e04f66098788
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+  cryptography_key_management_NIST_SP_800_57pt1r5_pdf:
+    title: NIST.SP.800 57pt1r5
+    organization: Other
+    type: standard
+    status: document
+    date: May 2020
+    url: https://csrc.nist.gov/publications/sp800-57
+    local_path: cryptography/key-management/NIST.SP.800-57pt1r5.pdf
+    size_bytes: 1688080
+    sha256: cc32391022c1382ac7c91490f6bcc8838e0f889925270da23ef4e800e2ecb7ad
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  cryptography_pqc_cfrg_draft_irtf_cfrg_hybrid_kems_txt:
+    title: draft irtf cfrg hybrid kems
+    organization: CFRG
+    type: rfc
+    status: informational
+    date: February 2025
+    url: https://datatracker.ietf.org/rg/cfrg/about/
+    local_path: cryptography/pqc/cfrg/draft-irtf-cfrg-hybrid-kems.txt
+    size_bytes: 114835
+    sha256: 795498ca2940adae50c170316a6a0ddc4d68fd0bf2210a8e7d282a28822ccef2
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_etsi_tr_103_616_qs_signatures_pdf:
+    title: tr 103 616 qs signatures
+    organization: ETSI
+    type: standard
+    status: standard
+    date: September 2021
+    url: https://www.etsi.org/
+    local_path: cryptography/pqc/etsi/tr-103-616-qs-signatures.pdf
+    size_bytes: 357153
+    sha256: f7bc0f0cf535934f1cd7f470a7f01261daa519863de2000811e4f2ab3cadf20c
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_etsi_tr_103_949_qsc_pdf:
+    title: tr 103 949 qsc
+    organization: ETSI
+    type: standard
+    status: standard
+    date: September 2021
+    url: https://www.etsi.org/
+    local_path: cryptography/pqc/etsi/tr-103-949-qsc.pdf
+    size_bytes: 692690
+    sha256: c0eb015a5294afe10252ff35775a88fd127bd9d0cc1d2a9bf3fa1099f8f9ad8a
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_draft_ietf_tls_ecdhe_mlkem_txt:
+    title: draft ietf tls ecdhe mlkem
+    organization: IETF
+    type: rfc
+    status: informational
+    date: May 2026
+    url: https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/
+    local_path: cryptography/pqc/ietf/draft-ietf-tls-ecdhe-mlkem.txt
+    size_bytes: 22448
+    sha256: df9241d9abe13ccf191d07a9e7f83100f6c7850642232807077d8ec5e3b5c5c3
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_draft_ietf_tls_mlkem_txt:
+    title: draft ietf tls mlkem
+    organization: IETF
+    type: rfc
+    status: informational
+    date: April 2025
+    url: https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/
+    local_path: cryptography/pqc/ietf/draft-ietf-tls-mlkem.txt
+    size_bytes: 21499
+    sha256: 83a61a265c9ff437b576f3656d0ad8b1018ff264982882efbade2c463e28b071
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_draft_ietf_uta_pqc_app_txt:
+    title: draft ietf uta pqc app
+    organization: IETF
+    type: rfc
+    status: informational
+    date: January 2027
+    url: https://datatracker.ietf.org/doc/draft-ietf-uta-pqc-app/
+    local_path: cryptography/pqc/ietf/draft-ietf-uta-pqc-app.txt
+    size_bytes: 61552
+    sha256: 1432e29c9c84d5c1bfc3f576dd7d2184ab09754d35c56cc7ded0880be95209aa
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_draft_pquip_pqc_migration_txt:
+    title: draft pquip pqc migration
+    organization: IETF
+    type: rfc
+    status: informational
+    date: July 2025
+    url: https://datatracker.ietf.org/doc/draft-pquip-pqc-migration/
+    local_path: cryptography/pqc/ietf/draft-pquip-pqc-migration.txt
+    size_bytes: 23885
+    sha256: fa99d161e2caa238eac0a1e548c8eba177a5bee5c9303dd3c742bba67910f77a
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_draft_ssh_pq_ke_txt:
+    title: draft ssh pq ke
+    organization: IETF
+    type: rfc
+    status: informational
+    date: October 2023
+    url: https://datatracker.ietf.org/doc/draft-ssh-pq-ke/
+    local_path: cryptography/pqc/ietf/draft-ssh-pq-ke.txt
+    size_bytes: 33773
+    sha256: 13e5714d5f29b37b72dbe5b64b4d15e11239b94de87c74146c3951f434d366f1
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_rfc_8391_xmss_txt:
+    title: rfc 8391 xmss
+    organization: IETF
+    type: rfc
+    status: informational
+    date: May 2018
+    url: https://www.rfc-editor.org/rfc/rfc8391.txt
+    local_path: cryptography/pqc/ietf/rfc-8391-xmss.txt
+    size_bytes: 155770
+    sha256: 1c9af7d63cd9ba38f6be8c72bb91f56d83fcce8e158c6da89782df727130106e
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_rfc_8554_lms_txt:
+    title: rfc 8554 lms
+    organization: IETF
+    type: rfc
+    status: informational
+    date: April 2019
+    url: https://www.rfc-editor.org/rfc/rfc8554.txt
+    local_path: cryptography/pqc/ietf/rfc-8554-lms.txt
+    size_bytes: 135954
+    sha256: d5bfdbd457dfe7bc5f67cc1f62482999c2f55bf8033f2af56da323f2ffc2c055
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_rfc_8784_pq_ppk_ikev2_txt:
+    title: rfc 8784 pq ppk ikev2
+    organization: IETF
+    type: rfc
+    status: informational
+    date: June 2020
+    url: https://www.rfc-editor.org/rfc/rfc8784.txt
+    local_path: cryptography/pqc/ietf/rfc-8784-pq-ppk-ikev2.txt
+    size_bytes: 42663
+    sha256: e12eae449f9a96743d8edb38a944d438815b01592314a46731a8fa380f676538
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_rfc_9370_multi_ke_ikev2_txt:
+    title: rfc 9370 multi ke ikev2
+    organization: IETF
+    type: rfc
+    status: informational
+    date: May 2023
+    url: https://www.rfc-editor.org/rfc/rfc9370.txt
+    local_path: cryptography/pqc/ietf/rfc-9370-multi-ke-ikev2.txt
+    size_bytes: 81487
+    sha256: 16160fa320dc06b75a759cc06a21d138bf126ec4c129b2193a8f413c190b1904
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_ietf_rfc_9954_hybrid_ke_tls_txt:
+    title: rfc 9954 hybrid ke tls
+    organization: IETF
+    type: rfc
+    status: informational
+    date: July 2026
+    url: https://www.rfc-editor.org/rfc/rfc9954.txt
+    local_path: cryptography/pqc/ietf/rfc-9954-hybrid-ke-tls.txt
+    size_bytes: 44581
+    sha256: db5b9f76fa7182dd02e05e1e0640f095cb51ccc8dd035fca38d66f9189d55ad0
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_nist_fips_203_ml_kem_pdf:
+    title: fips 203 ml kem
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2024
+    url: https://csrc.nist.gov/
+    local_path: cryptography/pqc/nist/fips-203-ml-kem.pdf
+    size_bytes: 1252341
+    sha256: fe1f12f32a7e44ec9fdebbf400cda843a40b506dee676725234dc6f7923b6cac
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_nist_fips_204_ml_dsa_pdf:
+    title: fips 204 ml dsa
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2024
+    url: https://csrc.nist.gov/
+    local_path: cryptography/pqc/nist/fips-204-ml-dsa.pdf
+    size_bytes: 3291746
+    sha256: 57239b9f84c03227eda3ca0991204dc7764c79af9ce2e6824eda774918d46b6b
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_nist_fips_205_slh_dsa_pdf:
+    title: fips 205 slh dsa
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2024
+    url: https://csrc.nist.gov/
+    local_path: cryptography/pqc/nist/fips-205-slh-dsa.pdf
+    size_bytes: 1055752
+    sha256: 8ef34228276f3386d23cb0da8c14592b8cfb0db3358016bba64df7a004f8d13d
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_nist_ir_8545_pqc_4th_round_pdf:
+    title: ir 8545 pqc 4th round
+    organization: NIST
+    type: standard
+    status: standardized
+    date: November 2024
+    url: https://csrc.nist.gov/
+    local_path: cryptography/pqc/nist/ir-8545-pqc-4th-round.pdf
+    size_bytes: 588999
+    sha256: d802f4849a52d18001533cef86e0950f31350643cc06881ee62b2382e1ea0e9d
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_nist_ir_8547_pqc_transition_draft_pdf:
+    title: ir 8547 pqc transition draft
+    organization: NIST
+    type: standard
+    status: standardized
+    date: March 2025
+    url: https://csrc.nist.gov/
+    local_path: cryptography/pqc/nist/ir-8547-pqc-transition-draft.pdf
+    size_bytes: 722379
+    sha256: 6b551b4ff9858a19c1ab48d7deef2ee52d615066b7d187aaf992cb50c5ca0ed6
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_pqc_nist_sp_800_208_stateful_hbs_pdf:
+    title: sp 800 208 stateful hbs
+    organization: NIST
+    type: standard
+    status: standardized
+    date: October 2020
+    url: https://csrc.nist.gov/
+    local_path: cryptography/pqc/nist/sp-800-208-stateful-hbs.pdf
+    size_bytes: 872986
+    sha256: 9ac6bee3da878e883874847b40f80d2265d6268385d8201f866581437533465f
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  cryptography_randomness_NIST_SP_800_90A_pdf:
+    title: NIST.SP.800 90A
+    organization: Other
+    type: standard
+    status: document
+    date: June 2015
+    url: https://csrc.nist.gov/publications/sp800-90
+    local_path: cryptography/randomness/NIST.SP.800-90A.pdf
+    size_bytes: 2417007
+    sha256: d58e3dac4aaa5971c9a6a20a9bd5c13e2f1930cd1a199c0c00f768e7327355e2
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  cryptography_randomness_NIST_SP_800_90B_pdf:
+    title: NIST.SP.800 90B
+    organization: Other
+    type: standard
+    status: document
+    date: January 2018
+    url: https://csrc.nist.gov/publications/sp800-90
+    local_path: cryptography/randomness/NIST.SP.800-90B.pdf
+    size_bytes: 1043696
+    sha256: 9b0dd77131ade3617a91cd8457fa09e0dc354c273bb2220a6afeaca16e5defe7
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  cryptography_randomness_NIST_SP_800_90C_pdf:
+    title: NIST.SP.800 90C
+    organization: Other
+    type: standard
+    status: document
+    date: October 2023
+    url: https://csrc.nist.gov/publications/sp800-90
+    local_path: cryptography/randomness/NIST.SP.800-90C.pdf
+    size_bytes: 10056754
+    sha256: 22dc2de903b2fe602fa0729c38b9512927ad96ef5669a3da8a0ffb4d22c8e6d8
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  datasets_cve_cpes_page1_json:
+    title: cpes page1
+    organization: NVD
+    type: dataset
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/cpes_page1.json
+    size_bytes: 597154
+    sha256: 194c0dbbe66a5db8089f5c2ab1dc6f5edb2d363dc04952108b071cb6ab6b6762
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_cves_page1_json:
+    title: cves page1
+    organization: NVD
+    type: dataset
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/cves_page1.json
+    size_bytes: 1162561
+    sha256: d539e1cc1421b96f799cf37f0e76f95599a0860211b476742458d95310bd3757
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_cves_page2_json:
+    title: cves page2
+    organization: NVD
+    type: dataset
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/cves_page2.json
+    size_bytes: 5229070
+    sha256: 5e01ab48ca154ae455b5c8ce5f8da662de13473a5fd289d131537d9ea4dd252d
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_cves_page3_json:
+    title: cves page3
+    organization: NVD
+    type: dataset
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/cves_page3.json
+    size_bytes: 6379484
+    sha256: f741d85f67b735ce010cf0e78ded2d409db2e863c18919eb1fc55602a49cb012
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_nvdcve_1_1_2023_json_gz:
+    title: nvdcve 1.1 2023.gz
+    organization: NVD
+    type: document
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/nvdcve-1.1-2023.json.gz
+    size_bytes: 5483
+    sha256: 816a7a16ceb4943e2754ee06a39013ca0bd0b905cdc2f9180d355663cd33da82
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_nvdcve_1_1_2024_json_gz:
+    title: nvdcve 1.1 2024.gz
+    organization: NVD
+    type: document
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/nvdcve-1.1-2024.json.gz
+    size_bytes: 5483
+    sha256: b1333c0dd39200774934bfbd9677a19414b8f0bdf362895e8ceb9785405b1744
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_nvdcve_1_1_2025_json_gz:
+    title: nvdcve 1.1 2025.gz
+    organization: NVD
+    type: document
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/nvdcve-1.1-2025.json.gz
+    size_bytes: 5483
+    sha256: d48ed7de3f9671fec21313a363ba48b3a9d4e2f2cb760be82cbb7b71dc7f4198
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_nvdcve_1_1_modified_json_gz:
+    title: nvdcve 1.1 modified.gz
+    organization: NVD
+    type: document
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/nvdcve-1.1-modified.json.gz
+    size_bytes: 5483
+    sha256: 31671a742b50c3b5eb28551f4762ecaf4f2fa701822d88867afe7bc45c9ea6c6
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cve_nvdcve_1_1_recent_json_gz:
+    title: nvdcve 1.1 recent.gz
+    organization: NVD
+    type: document
+    status: standardized
+    date: '2026-09-16'
+    url: https://nvd.nist.gov/
+    local_path: datasets/cve/nvdcve-1.1-recent.json.gz
+    size_bytes: 5483
+    sha256: f537746d387450b8b0b6a316bf6f10d1f1dc4f603732eec0b1ba3fa7a68a05bb
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cvss_cvss_v3_1_json:
+    title: cvss v3.1
+    organization: FIRST
+    type: dataset
+    status: standardized
+    date: June 2019
+    url: https://www.first.org/cvss/
+    local_path: datasets/cvss/cvss-v3.1.json
+    size_bytes: 7588
+    sha256: 77ff3df106e4588e2bb5c9cf0237f962c62d35c5002443c4bf7cc7ca16ee171f
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cvss_cvss_v4_0_json:
+    title: cvss v4.0
+    organization: FIRST
+    type: dataset
+    status: standardized
+    date: November 2023
+    url: https://www.first.org/cvss/
+    local_path: datasets/cvss/cvss-v4.0.json
+    size_bytes: 11312
+    sha256: 04040e0917f5b9162e529ca9cac8d69e42ec80b0cd2e2cdcbc004fe391f8c92c
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cwe_1000_csv:
+    title: 1000.csv
+    organization: MITRE
+    type: dataset
+    status: standardized
+    date: '2026-09-16'
+    url: https://cwe.mitre.org/
+    local_path: datasets/cwe/1000.csv
+    size_bytes: 3255371
+    sha256: 2f8f0b969938be8af81bb7cf9a5d8e056bb80f0730226531efb85ea313bbaf22
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  datasets_cwe_cwes_full_zip:
+    title: cwes full.zip
+    organization: MITRE
+    type: dataset
+    status: standardized
+    date: '2026-09-16'
+    url: https://cwe.mitre.org/
+    local_path: datasets/cwe/cwes_full.zip
+    size_bytes: 641573
+    sha256: 6a3d52a7d164d98eb24ca3228039dcd98461379d225dfd395474c0d007537791
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_cisa_CISA_SAG_Fact_Sheet_pdf:
+    title: CISA SAG Fact Sheet
+    organization: CISA
+    type: standard
+    status: guideline
+    date: October 2024
+    url: https://cisa.gov/
+    local_path: standards/cisa/CISA_SAG_Fact_Sheet.pdf
+    size_bytes: 553368
+    sha256: 2326fc5b363f638b59a2f12c2e7fd08b70cb09eda9d0aed3d82e6c479639f52f
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_cisa_CISA_Secure_by_Design_2023_pdf:
+    title: CISA Secure by Design 2023
+    organization: CISA
+    type: standard
+    status: guideline
+    date: April 2023
+    url: https://cisa.gov/
+    local_path: standards/cisa/CISA_Secure_by_Design_2023.pdf
+    size_bytes: 46886
+    sha256: f31966df3f89e748db4c81b834bc66c81865fc0fe5fe207b5408f9924c4df7a9
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_cisa_CISA_Software_Acquisition_Guide_pdf:
+    title: CISA Software Acquisition Guide
+    organization: CISA
+    type: standard
+    status: guideline
+    date: July 2024
+    url: https://cisa.gov/
+    local_path: standards/cisa/CISA_Software_Acquisition_Guide.pdf
+    size_bytes: 7155888
+    sha256: f4c748f69b80fe787ec8f643d64fa1080f6c2d0f0e3ff0ac56443a2bed9ad05e
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_fips_NIST_FIPS_140_3_pdf:
+    title: NIST.FIPS.140 3
+    organization: NIST
+    type: standard
+    status: standardized
+    date: March 2019
+    url: https://csrc.nist.gov/
+    local_path: standards/fips/NIST.FIPS.140-3.pdf
+    size_bytes: 310627
+    sha256: 942a4f929dfbd2b4af2e4e03df7f6e6377054346afd9bee346ed0ebac5db384b
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_fips_NIST_FIPS_180_4_pdf:
+    title: NIST.FIPS.180 4
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2015
+    url: https://csrc.nist.gov/
+    local_path: standards/fips/NIST.FIPS.180-4.pdf
+    size_bytes: 833315
+    sha256: 0455b406d89648d20cbde375561e19c245b9815e894164c2670772e3d54deb82
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_fips_NIST_FIPS_186_5_pdf:
+    title: NIST.FIPS.186 5
+    organization: NIST
+    type: standard
+    status: standardized
+    date: February 2023
+    url: https://csrc.nist.gov/
+    local_path: standards/fips/NIST.FIPS.186-5.pdf
+    size_bytes: 1844414
+    sha256: fbb9c7c2ba442f03c57b63b43c888311903c9d0f29f89b06efdebd9b619140c5
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc4250_txt:
+    title: The Secure Shell (SSH) Protocol Assigned Numbers
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2006
+    url: https://www.rfc-editor.org/rfc/rfc4250.txt
+    local_path: standards/ietf/crypto-auth/rfc4250.txt
+    size_bytes: 44010
+    sha256: eb3a9d7c3e1fae53c038d5ae62a73e62280d1dde8b246129969c95e4d0909341
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc5869_txt:
+    title: HMAC-based Extract-and-Expand Key Derivation Function (HKDF)
+    organization: IETF
+    type: rfc
+    status: informational
+    date: May 2010
+    url: https://www.rfc-editor.org/rfc/rfc5869.txt
+    local_path: standards/ietf/crypto-auth/rfc5869.txt
+    size_bytes: 25854
+    sha256: 7a40eb3835b35fc947eb12a2ed614db079d43b26e50dbc537c31fba16397089c
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc6234_txt:
+    title: US Secure Hash Algorithms (SHA and SHA-based HMAC and HKDF)
+    organization: IETF
+    type: rfc
+    status: informational
+    date: May 2011
+    url: https://www.rfc-editor.org/rfc/rfc6234.txt
+    local_path: standards/ietf/crypto-auth/rfc6234.txt
+    size_bytes: 236573
+    sha256: 8f39f02a57bfd1da15634706724a585766e6223f77ecdaf243cad16cd3a1aa1b
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc6749_txt:
+    title: The OAuth 2.0 Authorization Framework
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: October 2012
+    url: https://www.rfc-editor.org/rfc/rfc6749.txt
+    local_path: standards/ietf/crypto-auth/rfc6749.txt
+    size_bytes: 163498
+    sha256: f204fc8661d6c92d2ec6e0b54808f961a9ad26e792f57f312d9528335519bd71
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc6819_txt:
+    title: OAuth 2.0 Threat Model and Security Considerations
+    organization: IETF
+    type: rfc
+    status: informational
+    date: January 2013
+    url: https://www.rfc-editor.org/rfc/rfc6819.txt
+    local_path: standards/ietf/crypto-auth/rfc6819.txt
+    size_bytes: 158332
+    sha256: 7130b62c2861e8f8a7a28aa1af9d12b6dd49e9f1353f51a84314026fbcf9dd08
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7009_txt:
+    title: OAuth 2.0 Token Revocation
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: August 2013
+    url: https://www.rfc-editor.org/rfc/rfc7009.txt
+    local_path: standards/ietf/crypto-auth/rfc7009.txt
+    size_bytes: 23517
+    sha256: b2f346d5a87ba9d7f09047901257a65f7ac0b26352095969c25821afab447829
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7515_txt:
+    title: JSON Web Signature (JWS)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2015
+    url: https://www.rfc-editor.org/rfc/rfc7515.txt
+    local_path: standards/ietf/crypto-auth/rfc7515.txt
+    size_bytes: 131110
+    sha256: ecbf84674118e62526511c1237e1deaa86aada86d25b247623a2a7e04ae62e40
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7516_txt:
+    title: JSON Web Encryption (JWE)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2015
+    url: https://www.rfc-editor.org/rfc/rfc7516.txt
+    local_path: standards/ietf/crypto-auth/rfc7516.txt
+    size_bytes: 108322
+    sha256: 722cfcddc15f58e746891ba4b846853d3711153a774e4dd55ad6db100474a21f
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7518_txt:
+    title: JSON Web Algorithms (JWA)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2015
+    url: https://www.rfc-editor.org/rfc/rfc7518.txt
+    local_path: standards/ietf/crypto-auth/rfc7518.txt
+    size_bytes: 155905
+    sha256: 9a9ae524b09ea700ad3f189bac115df95ba69af84b26ffdbe3cdfb8d2152b1fc
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7519_txt:
+    title: JSON Web Token (JWT)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2015
+    url: https://www.rfc-editor.org/rfc/rfc7519.txt
+    local_path: standards/ietf/crypto-auth/rfc7519.txt
+    size_bytes: 63039
+    sha256: fecd930e9ccf2276b95c0017c6c4ff5d09352e4bc3c7629946447894e0f97248
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7636_txt:
+    title: Proof Key for Code Exchange by OAuth Public Clients
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: September 2015
+    url: https://www.rfc-editor.org/rfc/rfc7636.txt
+    local_path: standards/ietf/crypto-auth/rfc7636.txt
+    size_bytes: 39482
+    sha256: 1972e5d81cbaba7066cfd46374207bc2b4546b085ed5dd9b034e79e023e0ca31
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7662_txt:
+    title: OAuth 2.0 Token Introspection
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: October 2015
+    url: https://www.rfc-editor.org/rfc/rfc7662.txt
+    local_path: standards/ietf/crypto-auth/rfc7662.txt
+    size_bytes: 36591
+    sha256: 2b7d688cb849f093e860557ac97e6cddac2556d69a4386561b22cdf97bf13657
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc7748_txt:
+    title: Elliptic Curves for Security
+    organization: IETF
+    type: rfc
+    status: informational
+    date: January 2016
+    url: https://www.rfc-editor.org/rfc/rfc7748.txt
+    local_path: standards/ietf/crypto-auth/rfc7748.txt
+    size_bytes: 39298
+    sha256: 279ca0ecc5e92e2962e27b846986aeb74729d9dd34bd4a04a362f80dcb596ad3
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc8018_txt:
+    title: 'PKCS #5: Password-Based Cryptography Specification Version 2.1'
+    organization: IETF
+    type: rfc
+    status: informational
+    date: January 2017
+    url: https://www.rfc-editor.org/rfc/rfc8018.txt
+    local_path: standards/ietf/crypto-auth/rfc8018.txt
+    size_bytes: 80887
+    sha256: cf96b02e68216f618ea33b20b49d476edba9d70f2333597ec516629d22971cda
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc8032_txt:
+    title: Edwards-Curve Digital Signature Algorithm (EdDSA)
+    organization: IETF
+    type: rfc
+    status: informational
+    date: January 2017
+    url: https://www.rfc-editor.org/rfc/rfc8032.txt
+    local_path: standards/ietf/crypto-auth/rfc8032.txt
+    size_bytes: 103210
+    sha256: ed63657ff389301282b169b0abde9b5dd2c7e4d524fdfa5da6ff3094fc93c4c3
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc8210_txt:
+    title: The Resource Public Key Infrastructure (RPKI) to Router Protocol, Version 1
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: September 2017
+    url: https://www.rfc-editor.org/rfc/rfc8210.txt
+    local_path: standards/ietf/crypto-auth/rfc8210.txt
+    size_bytes: 78467
+    sha256: f2d6905b6c27c81fbcec3767d17b13e8a076f9712868e3c759bcfbe7a4f2149b
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc8252_txt:
+    title: OAuth 2.0 for Native Apps
+    organization: IETF
+    type: rfc
+    status: best_current_practice
+    date: October 2017
+    url: https://www.rfc-editor.org/rfc/rfc8252.txt
+    local_path: standards/ietf/crypto-auth/rfc8252.txt
+    size_bytes: 49680
+    sha256: 4233c0650ec7e7918c20e0fde2dc565f85e2aa2d4c18123e3cd834295c2f68d0
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc8439_txt:
+    title: ChaCha20 and Poly1305 for IETF Protocols
+    organization: IETF
+    type: rfc
+    status: informational
+    date: June 2018
+    url: https://www.rfc-editor.org/rfc/rfc8439.txt
+    local_path: standards/ietf/crypto-auth/rfc8439.txt
+    size_bytes: 88847
+    sha256: 25bef70fbf7a07ff45c2fe4cb7c6ce954eac687413d8610603268b4e4415324c
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc8555_txt:
+    title: Automatic Certificate Management Environment (ACME)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: March 2019
+    url: https://www.rfc-editor.org/rfc/rfc8555.txt
+    local_path: standards/ietf/crypto-auth/rfc8555.txt
+    size_bytes: 196903
+    sha256: a40983bbf91f2bd3a976d1c16520aa4418c02ba6d6f1ddcaf772881f823b2497
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_crypto_auth_rfc9068_txt:
+    title: JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: October 2021
+    url: https://www.rfc-editor.org/rfc/rfc9068.txt
+    local_path: standards/ietf/crypto-auth/rfc9068.txt
+    size_bytes: 35141
+    sha256: 68d3ff3910c0f2340fd7b93b430e00053da845b6eebe095ebef0c8bfda5e14c5
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_dnssec_rfc4033_txt:
+    title: DNS Security Introduction and Requirements
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: March 2005
+    url: https://www.rfc-editor.org/rfc/rfc4033.txt
+    local_path: standards/ietf/dnssec/rfc4033.txt
+    size_bytes: 52445
+    sha256: b6803149a879dff56cbaffcb8c5a1795d2a2d2facdc3400ebd9937e38724e4cd
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_dnssec_rfc4034_txt:
+    title: Resource Records for the DNS Security Extensions
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: March 2005
+    url: https://www.rfc-editor.org/rfc/rfc4034.txt
+    local_path: standards/ietf/dnssec/rfc4034.txt
+    size_bytes: 63879
+    sha256: 6c32963b76808ec4e5f1282b5e13c5216df4670d21e1590bf29af4066f49b355
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_dnssec_rfc4035_txt:
+    title: Protocol Modifications for the DNS Security Extensions
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: March 2005
+    url: https://www.rfc-editor.org/rfc/rfc4035.txt
+    local_path: standards/ietf/dnssec/rfc4035.txt
+    size_bytes: 130589
+    sha256: 8978b120636c69b2080b12768266ec48cd4c0879583310863a62f7c409908084
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_http_security_rfc7230_txt:
+    title: 'Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing'
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: June 2014
+    url: https://www.rfc-editor.org/rfc/rfc7230.txt
+    local_path: standards/ietf/http-security/rfc7230.txt
+    size_bytes: 205947
+    sha256: c7fdc8bebdf1f8195f731592c47f5ea822b489436fd905b01b55ef531fca4120
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_http_security_rfc7540_txt:
+    title: Hypertext Transfer Protocol Version 2 (HTTP/2)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2015
+    url: https://www.rfc-editor.org/rfc/rfc7540.txt
+    local_path: standards/ietf/http-security/rfc7540.txt
+    size_bytes: 209580
+    sha256: 6a67e8d7fdfa7b5272fc55f8fba62b266f932031c7f39e29c52f83e129bc2967
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_http_security_rfc7838_txt:
+    title: HTTP Alternative Services
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: April 2016
+    url: https://www.rfc-editor.org/rfc/rfc7838.txt
+    local_path: standards/ietf/http-security/rfc7838.txt
+    size_bytes: 42681
+    sha256: ac2ee358ed7406e8128fc85ada8a1891de54b963bd7d47875e290a23a4e95021
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_http_security_rfc8811_txt:
+    title: DDoS Open Threat Signaling (DOTS) Architecture
+    organization: IETF
+    type: rfc
+    status: informational
+    date: August 2020
+    url: https://www.rfc-editor.org/rfc/rfc8811.txt
+    local_path: standards/ietf/http-security/rfc8811.txt
+    size_bytes: 77014
+    sha256: ea4b93f2a9e0e76a6cdc0cdcd5c15741b348cc1d1c2f798723027fc2140f5c85
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_http_security_rfc9110_txt:
+    title: HTTP Semantics
+    organization: IETF
+    type: rfc
+    status: standard
+    date: June 2022
+    url: https://www.rfc-editor.org/rfc/rfc9110.txt
+    local_path: standards/ietf/http-security/rfc9110.txt
+    size_bytes: 502941
+    sha256: 21c1cdce6ab0e5509b04d84a28000836c7a087cf786efe6f04877ebfff47232a
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_http_security_rfc9111_txt:
+    title: HTTP Caching
+    organization: IETF
+    type: rfc
+    status: standard
+    date: June 2022
+    url: https://www.rfc-editor.org/rfc/rfc9111.txt
+    local_path: standards/ietf/http-security/rfc9111.txt
+    size_bytes: 84477
+    sha256: aeb52adb3279d5f23dae34f68af11bd5cef0a0aff7ffcd014c9ca93c5302cf3e
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ipsec_rfc4301_txt:
+    title: Security Architecture for the Internet Protocol
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: December 2005
+    url: https://www.rfc-editor.org/rfc/rfc4301.txt
+    local_path: standards/ietf/ipsec/rfc4301.txt
+    size_bytes: 262123
+    sha256: a2411e90515f59665e1059b1bb66d8123bd9e384ccfc8b7ccca65db85d5d7736
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ipsec_rfc4302_txt:
+    title: IP Authentication Header
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: December 2005
+    url: https://www.rfc-editor.org/rfc/rfc4302.txt
+    local_path: standards/ietf/ipsec/rfc4302.txt
+    size_bytes: 82328
+    sha256: c9de28181a78bb85ec6d1e6bda86da133307310de736632f26aa890e1f08e56b
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ipsec_rfc4303_txt:
+    title: IP Encapsulating Security Payload (ESP)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: December 2005
+    url: https://www.rfc-editor.org/rfc/rfc4303.txt
+    local_path: standards/ietf/ipsec/rfc4303.txt
+    size_bytes: 114315
+    sha256: d22f9d4120e5645525b63ac7bbf8ef78c334fe003a2c48bf1e25ac25f6e7dc58
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ipsec_rfc7296_txt:
+    title: Internet Key Exchange Protocol Version 2 (IKEv2)
+    organization: IETF
+    type: rfc
+    status: standard
+    date: October 2014
+    url: https://www.rfc-editor.org/rfc/rfc7296.txt
+    local_path: standards/ietf/ipsec/rfc7296.txt
+    size_bytes: 354358
+    sha256: b6c1bf3921e85dd3674f427ffcaded0209e1f9718e8d601e2f918371f46329a1
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_pki_rfc5280_txt:
+    title: Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: May 2008
+    url: https://www.rfc-editor.org/rfc/rfc5280.txt
+    local_path: standards/ietf/pki/rfc5280.txt
+    size_bytes: 352580
+    sha256: a2f2628c0a83b873fc4786abd921f9b2c02395954b655d190bf16b831633345d
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_pki_rfc5758_txt:
+    title: 'Internet X.509 Public Key Infrastructure: Additional Algorithms and Identifiers for DSA and ECDSA'
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2010
+    url: https://www.rfc-editor.org/rfc/rfc5758.txt
+    local_path: standards/ietf/pki/rfc5758.txt
+    size_bytes: 15834
+    sha256: 4d02628ff0875a1960d34be584a68f88528b96242bdc5a05a40a29ef01cf1532
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_pki_rfc6962_txt:
+    title: Certificate Transparency
+    organization: IETF
+    type: rfc
+    status: experimental
+    date: June 2013
+    url: https://www.rfc-editor.org/rfc/rfc6962.txt
+    local_path: standards/ietf/pki/rfc6962.txt
+    size_bytes: 55048
+    sha256: 08fdf31c10b9f20872a65c027a9fe8cee27280f930120784241a57de744752af
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ssh_rfc4251_txt:
+    title: The Secure Shell (SSH) Protocol Architecture
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2006
+    url: https://www.rfc-editor.org/rfc/rfc4251.txt
+    local_path: standards/ietf/ssh/rfc4251.txt
+    size_bytes: 71750
+    sha256: 23a5052796d29edc2f0ff4f5be557df244544d129cfc26ed51971a6485eff4ef
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ssh_rfc4252_txt:
+    title: The Secure Shell (SSH) Authentication Protocol
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2006
+    url: https://www.rfc-editor.org/rfc/rfc4252.txt
+    local_path: standards/ietf/ssh/rfc4252.txt
+    size_bytes: 34268
+    sha256: a36b882cf77b107335d49921b5e955b4ba78e253205dfbce5096ebc0e78bdf14
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ssh_rfc4253_txt:
+    title: The Secure Shell (SSH) Transport Layer Protocol
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2006
+    url: https://www.rfc-editor.org/rfc/rfc4253.txt
+    local_path: standards/ietf/ssh/rfc4253.txt
+    size_bytes: 68263
+    sha256: b471173305154f6c66facffcf7a4a25fc5c32765cb30542120be6c20a88f1ed3
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ssh_rfc4254_txt:
+    title: The Secure Shell (SSH) Connection Protocol
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: January 2006
+    url: https://www.rfc-editor.org/rfc/rfc4254.txt
+    local_path: standards/ietf/ssh/rfc4254.txt
+    size_bytes: 50338
+    sha256: bfc727e9350067eaa49edeecc3d32f1e3518dd57cf3c36ceed02177156c5703f
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_ssh_rfc4419_txt:
+    title: Diffie-Hellman Group Exchange for the Secure Shell (SSH) Transport Layer Protocol
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: March 2006
+    url: https://www.rfc-editor.org/rfc/rfc4419.txt
+    local_path: standards/ietf/ssh/rfc4419.txt
+    size_bytes: 18356
+    sha256: 20b76eff3be0c2311636e03604b1ddb9d5368fadd75a39c0c831fa7e04da0ad6
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_tls_rfc5246_txt:
+    title: The Transport Layer Security (TLS) Protocol Version 1.2
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: August 2008
+    url: https://www.rfc-editor.org/rfc/rfc5246.txt
+    local_path: standards/ietf/tls/rfc5246.txt
+    size_bytes: 222395
+    sha256: 2ebe1b8e651696aeacc8ab3848bedb465505737901ea3b691acf40c392958feb
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_tls_rfc7366_txt:
+    title: Encrypt-then-MAC for Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: September 2014
+    url: https://www.rfc-editor.org/rfc/rfc7366.txt
+    local_path: standards/ietf/tls/rfc7366.txt
+    size_bytes: 15775
+    sha256: 5dadf33fbc770231ac309c79e71c84a68a321b1c7d2fd0b9de654ed029c91f4f
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_tls_rfc7465_txt:
+    title: Prohibiting RC4 Cipher Suites
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: February 2015
+    url: https://www.rfc-editor.org/rfc/rfc7465.txt
+    local_path: standards/ietf/tls/rfc7465.txt
+    size_bytes: 8397
+    sha256: 0c619db38176f199f739dc696a2d3faabbe658ee82d59621c6d040d0b7cce2dd
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_tls_rfc7568_txt:
+    title: Deprecating Secure Sockets Layer Version 3.0
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: June 2015
+    url: https://www.rfc-editor.org/rfc/rfc7568.txt
+    local_path: standards/ietf/tls/rfc7568.txt
+    size_bytes: 13489
+    sha256: 84e8adcafd4cde891e258342f9d5c3381f746d0ff40b196a8b83bb0b6a43c7d1
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_tls_rfc7627_txt:
+    title: Transport Layer Security (TLS) Session Hash and Extended Master Secret Extension
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: September 2015
+    url: https://www.rfc-editor.org/rfc/rfc7627.txt
+    local_path: standards/ietf/tls/rfc7627.txt
+    size_bytes: 34788
+    sha256: 3e908b1a511f5894b64b2c7867c5e0e8db43896add4d99a340fe67a07ee11a59
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_ietf_tls_rfc8446_txt:
+    title: The Transport Layer Security (TLS) Protocol Version 1.3
+    organization: IETF
+    type: rfc
+    status: standardized
+    date: August 2018
+    url: https://www.rfc-editor.org/rfc/rfc8446.txt
+    local_path: standards/ietf/tls/rfc8446.txt
+    size_bytes: 337736
+    sha256: 47871bc8820a2c3b6ea89f061055577058862cf543686b82d10131239702b3bd
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_CSWP_29_CSF_2_0_pdf:
+    title: NIST.CSWP.29 CSF 2.0
+    organization: NIST
+    type: standard
+    status: standardized
+    date: February 2024
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.CSWP.29-CSF-2.0.pdf
+    size_bytes: 1518858
+    sha256: 3c31f46fee98cac0c4323453e5109291a213b4de7fef8c058af9bf67f717433c
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_131Ar2_pdf:
+    title: NIST.SP.800 131Ar2
+    organization: NIST
+    type: standard
+    status: standardized
+    date: March 2024
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-131Ar2.pdf
+    size_bytes: 686214
+    sha256: 5c81a1095e0eee35ce0e627b8cc672c1c2239367b0de9bb53d7271c9ab9d7d27
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_161r1_pdf:
+    title: NIST.SP.800 161r1
+    organization: NIST
+    type: standard
+    status: standardized
+    date: May 2024
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-161r1.pdf
+    size_bytes: 4845469
+    sha256: c8250b1ea542640a7cffc145be08c6b17ff76bd695f8c0ac1b40c49d45355d89
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_175B_pdf:
+    title: NIST.SP.800 175B
+    organization: NIST
+    type: standard
+    status: standardized
+    date: December 2016
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-175B.pdf
+    size_bytes: 1569079
+    sha256: 60906295992903c3020cab10cab43b17ee03248097829536ef01deaa2f7464ad
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_207_pdf:
+    title: NIST.SP.800 207
+    organization: NIST
+    type: standard
+    status: standardized
+    date: August 2020
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-207.pdf
+    size_bytes: 966908
+    sha256: 0290d6ece24874287316f4bf430fef770aa4ec08a2227c8f2c1e5b2ff975e03d
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_218_pdf:
+    title: NIST.SP.800 218
+    organization: NIST
+    type: standard
+    status: standardized
+    date: February 2022
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-218.pdf
+    size_bytes: 739891
+    sha256: 617746e553a9e2da49bfbd4eef0dfc3094758a39b869314e4173ac36605cde22
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_218r1_draft_pdf:
+    title: NIST.SP.800 218r1 draft
+    organization: NIST
+    type: standard
+    status: standardized
+    date: June 2026
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-218r1-draft.pdf
+    size_bytes: 778895
+    sha256: 0f40af24b5d0175ced02dee971a89128f55ea9ac077963038b46cc9434a8d000
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_53r5_pdf:
+    title: NIST.SP.800 53r5
+    organization: NIST
+    type: standard
+    status: standardized
+    date: September 2020
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-53r5.pdf
+    size_bytes: 6073678
+    sha256: fc63bcd61715d0181dd8e85998b1e6201ae3515fc6626102101cab1841e11ec6
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_63A_pdf:
+    title: NIST.SP.800 63A
+    organization: NIST
+    type: standard
+    status: standardized
+    date: June 2024
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-63A.pdf
+    size_bytes: 973404
+    sha256: de3ffae0d7912763545d8327235259c75cab2d579c4a36888f0da17ef591c49d
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_63B_pdf:
+    title: NIST.SP.800 63B
+    organization: NIST
+    type: standard
+    status: standardized
+    date: June 2024
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-63B.pdf
+    size_bytes: 1480377
+    sha256: ccfce7510a1267933f912d023306c6e7d485f21be63d271108b61aad6139127e
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_nist_NIST_SP_800_63_4_pdf:
+    title: NIST.SP.800 63 4
+    organization: NIST
+    type: standard
+    status: standardized
+    date: June 2024
+    url: https://csrc.nist.gov/
+    local_path: standards/nist/NIST.SP.800-63-4.pdf
+    size_bytes: 858054
+    sha256: 2f5b107de218a0fc3fe7f7e91b2ece5babb001eda5745b7c568a3cc876002f2d
+    legal_status: official_public
+    retrieved_at: 2026-09-16
+  standards_other_fido_ctap2_html:
+    title: fido ctap2
+    organization: Other
+    type: specification
+    status: document
+    date: September 2019
+    url: https://fidoalliance.org/specs/fido-v2.0-ps-20190130/fido-client-to-authenticator-protocol-v2.0-ps-20190130.html
+    local_path: standards/other/fido-ctap2.html
+    size_bytes: 332248
+    sha256: b6886c049ca5e5f9594c3a1b1798f3000461be68240874f83826f455a5272e5e
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_other_fido_metadata_statement_json:
+    title: fido metadata statement
+    organization: Other
+    type: dataset
+    status: document
+    date: September 2019
+    url: https://fidoalliance.org/specs/fido-v2.0-ps-20190130/fido-metadata-statement-v2.0-ps-20190130.html
+    local_path: standards/other/fido-metadata-statement.json
+    size_bytes: 1084
+    sha256: 248ea10bf756e8d7bd8923fa3f0e6ffe3cff687af98fa9754047ff46f02d01cc
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_other_openid_connect_core_1_0_html:
+    title: openid connect core 1 0
+    organization: Other
+    type: specification
+    status: document
+    date: November 2014
+    url: https://openid.net/specs/openid-connect-core-1_0.html
+    local_path: standards/other/openid-connect-core-1_0.html
+    size_bytes: 437508
+    sha256: 4d016752a645e8a3c259baa4173b5a90cb6c82898ce868fc8444adde262a5aed
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_other_webauthn_2_html:
+    title: webauthn 2
+    organization: Other
+    type: specification
+    status: document
+    date: March 2021
+    url: https://www.w3.org/TR/webauthn-2/
+    local_path: standards/other/webauthn-2.html
+    size_bytes: 1711644
+    sha256: c2465c074ad03054fafc1001ae93997ab0d506ab3597f6a539ce0d14cf3e605a
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_owasp_owasp_api_top10_2023_pdf:
+    title: owasp api top10 2023
+    organization: OWASP
+    type: standard
+    status: recommendation
+    date: July 2023
+    url: https://owasp.org/
+    local_path: standards/owasp/owasp_api_top10_2023.pdf
+    size_bytes: 1222403
+    sha256: 79d19decb70d3110c65fa8a2e664146cca3abeca45e43c6b2ae2ff208902ee0b
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_owasp_owasp_asvs_5_0_0_pdf:
+    title: owasp asvs 5.0.0
+    organization: OWASP
+    type: standard
+    status: recommendation
+    date: March 2024
+    url: https://owasp.org/
+    local_path: standards/owasp/owasp_asvs_5.0.0.pdf
+    size_bytes: 514062
+    sha256: a2fa1bbe38f12cac86d3a0f0023327e9772201f65a7f741f282f5e785d268fc5
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_owasp_owasp_samm_v2_pdf:
+    title: owasp samm v2
+    organization: OWASP
+    type: standard
+    status: recommendation
+    date: October 2023
+    url: https://owasp.org/
+    local_path: standards/owasp/owasp_samm_v2.pdf
+    size_bytes: 668878
+    sha256: 2244ea9a594c665ae50ef5d7a9a086d1dc74125ffe6e57fd03d5dbde483e250d
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_owasp_owasp_secure_coding_practices_pdf:
+    title: owasp secure coding practices
+    organization: OWASP
+    type: standard
+    status: recommendation
+    date: December 2023
+    url: https://owasp.org/
+    local_path: standards/owasp/owasp_secure_coding_practices.pdf
+    size_bytes: 29116
+    sha256: c06dad2576a82e81479556649da4e94ef9f4eb4b9211cf098b1e119074fd1c4a
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_owasp_owasp_top10_2021_pdf:
+    title: owasp top10 2021
+    organization: OWASP
+    type: standard
+    status: recommendation
+    date: September 2021
+    url: https://owasp.org/
+    local_path: standards/owasp/owasp_top10_2021.pdf
+    size_bytes: 17138
+    sha256: 817d7c25937f4ef275059a0d99c04333bcf14161c4109b98d297a8016c189672
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_owasp_owasp_top10_2025_pdf:
+    title: owasp top10 2025
+    organization: OWASP
+    type: standard
+    status: recommendation
+    date: July 2025
+    url: https://owasp.org/
+    local_path: standards/owasp/owasp_top10_2025.pdf
+    size_bytes: 3372983
+    sha256: 35c1a750ff5691313916b541a766f23ef999263b92ce6004ffceaa66062c5566
+    legal_status: unknown
+    retrieved_at: 2026-09-16
+  standards_slsa_SLSA_README_md:
+    title: SLSA README.md
+    organization: SLSA
+    type: document
+    status: framework
+    date: September 2025
+    url: https://slsa.dev/
+    local_path: standards/slsa/SLSA-README.md
+    size_bytes: 3699
+    sha256: aeff12d58ae18e38178775a9514cba2bcc6f244f4d0d724a099531ca99118952
+    legal_status: apache_2
+    retrieved_at: 2026-09-16
+cross_references:
+  tls_13:
+  - rfc8446_tls
+  - rfc5246_tls
+  - rfc7366_tls
+  - rfc7627_tls
+  pqc_standards:
+  - fips_203_mlkem
+  - fips_204_mldsa
+  - fips_205_slhdsa
+  oAuth2_oidc:
+  - rfc6749_oauth2
+  - rfc7519_jwt
+  - rfc7636_pkce
+  pki_x509:
+  - rfc5280_x509
+  - rfc5758_x509
+  - rfc6962_ct
+  ssh_protocol:
+  - rfc4251_ssh
+  - rfc4252_ssh
+  - rfc4253_ssh
+  - rfc4254_ssh
+  ipsec_ikev2:
+  - rfc4301_ipsec
+  - rfc4303_ipsec
+  - rfc7296_ikev2
+  dnssec:
+  - rfc4033_dnssec
+  - rfc4034_dnssec
+  - rfc4035_dnssec
+  owasp_appsec:
+  - owasp_top10
+  - owasp_asvs
+  - owasp_samm
+metadata:
+  last_updated: 2026-09-16
+  total_entries: 146
+  notes: Initial collection pass - all files verified with SHA-256
