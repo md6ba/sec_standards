@@ -189,6 +189,10 @@ sec_standards/
 │   ├── cwe/                     ← MITRE CWE taxonomy
 │   ├── cvss/                    ← CVSS v3.1, v4.0 vectors
 │
+├── skills/                      ← AI Agent Skills
+│   └── security-standards/      ← Hermes Skill (MAP to this KB)
+│       └── SKILL.md             ← Domain map, gates, retrieval procedure
+│
 └── research/
     └── gaps/                    ← Missing standards & next actions
 ```
@@ -322,21 +326,69 @@ When sources follow this priority (higher overrides lower):
 
 ---
 
-## 🤖 Integration with AI Agents
+## 🤖 Security Standards Skill (Hermes AI Agent)
 
-This knowledge base is designed to be used by AI agents (such as Hermes) as
-authoritative source material. The companion `security-standards` Hermes Skill
-teaches the agent:
+This knowledge base includes a companion **Hermes Skill** that teaches AI agents
+how to use it as an authoritative source for security-sensitive work.
 
-- **When** to consult this knowledge base
-- **How** to classify security tasks into domains
-- **Where** to find relevant standards using CATALOG.yaml
-- **How** to verify status (standardized vs draft vs deprecated)
-- **How** to cite evidence without copying full documents
-- **How** to handle conflicts and gaps
+### What the Skill Does
 
-**Key principle:** The Skill is the MAP, this knowledge base is the SOURCE OF TRUTH.
-Never duplicate the actual standards into the agent's procedural memory.
+- **Maps** every security question to the correct domain and standards
+- **Forces** mandatory Security Change Gate, Cryptography Gate, and PQC Gate
+- **Enforces** authority hierarchy (law > standard > guidance > framework > policy)
+- **Requires** evidence-based answers (WHAT, WHY, SOURCE, VERSION, WHERE)
+- **Prevents** relying on model memory — always retrieves from `sec_standards`
+
+### Installing the Skill
+
+The skill is included in this repository at `skills/security-standards/SKILL.md`.
+To install it in your Hermes Agent:
+
+```bash
+# Clone this repo (if not already)
+git clone https://github.com/md6ba/sec_standards.git
+
+# Copy skill to your Hermes skills directory
+cp -r sec_standards/skills/security-standards ~/.hermes/profiles/domino/skills/security/
+
+# Or use Hermes skill management:
+# 1. Open Hermes
+# 2. Run: /install-plugin security-standards
+# 3. Or manually place SKILL.md in skills/security/security-standards/
+```
+
+### Skill Architecture
+
+```
+SECURITY STANDARDS SKILL (the MAP)
+            │
+            │ "KNOW WHERE TO LOOK"
+            ▼
+      sec_standards/ (the KNOWLEDGE BASE)
+            │
+            │ "FIND THE SOURCE"
+            ▼
+   Relevant Requirement
+            │
+            │ "APPLY IT WITH EVIDENCE"
+            ▼
+     Project Security
+```
+
+### Validation (5 Scenarios)
+
+| Scenario | Behavior |
+|----------|----------|
+| "Add encrypted transport" | Identifies Network Security + Crypto, retrieves TLS standards |
+| "Choose a cryptographic algorithm" | Consults FIPS, verifies status, provides evidence |
+| "Make this post-quantum secure" | Activates PQC gate, distinguishes standardized vs experimental |
+| "Fix a security bug" | Determines affected properties, inspects standards, tests |
+| "Use the fastest algorithm" | Security constraints override performance |
+
+### Key Principle
+
+> **The Skill is the MAP, this knowledge base is the SOURCE OF TRUTH.**
+> Never duplicate actual standards into the agent's procedural memory.
 
 ---
 
